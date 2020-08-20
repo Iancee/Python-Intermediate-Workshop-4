@@ -1,0 +1,1 @@
+"C:\Program Files\ArcGIS\Pro\bin\Python\envs\arcgispro-py3\python.exe" "C:\Users\ian.conroy\Desktop\Bay Geo Classes\Python Class\Intermediate Class\Session 4\Append new points to AGOL.py"
